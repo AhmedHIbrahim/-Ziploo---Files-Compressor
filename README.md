@@ -1,4 +1,4 @@
-Ziploo Compressing Bash program 
+##Ziploo Compressing Bash program 
 
 
 This tiny linux-cli-dialog program uses two linux functions to compress and uncompress (gzip & bzip2).To have a successful compressing mission please, follow the  following instructions.
